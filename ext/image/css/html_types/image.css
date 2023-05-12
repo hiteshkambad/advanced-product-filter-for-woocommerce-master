@@ -1,0 +1,42 @@
+.apffw_sid_auto_shortcode .apffw_container_image{   
+   
+}
+
+.apffw_sid_auto_shortcode .apffw_container_inner_image{
+    padding: 9px;
+    background: #fff;
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    border-radius: 7px;
+}
+
+ul.apffw_list_image{
+
+}
+
+ul.apffw_list_image li {
+    display: inline-block;
+    float: none !important;
+    margin: 0 0 0 0 !important;
+    padding: 0 !important;
+}
+
+.apffw_image_term {
+    display: block;        
+}
+
+.apffw_image_term.checked, .apffw_image_term:hover {
+    border-color: #292f38 !important;
+}
+
+.apffw_image_checked {
+    width: 25px;
+    height: 25px;
+    background-color: red;
+    position: absolute;
+    z-index: 999;
+    display: none;
+}
+.apffw_image_text_term{
+    text-align: center;
+}
